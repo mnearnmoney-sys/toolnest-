@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ToolNest",
+  "description": "A comprehensive suite of free online tools for developers, designers, and creators, featuring AI assistance, image conversion, and utility functions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
